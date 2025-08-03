@@ -52,7 +52,7 @@ Dataset: https://github.com/ShalineeLikhitkar/Blinkit-Sales-Analysis-/tree/main/
 
 
 ## Dashboard: 
-<img width="1132" height="593" alt="Screenshot 2025-08-03 112814" src="https://github.com/user-attachments/assets/00f3169e-8520-4668-b4e3-5118e5bc648a" />
+<img width="1653" height="883" alt="Screenshot 2025-08-03 113218" src="https://github.com/user-attachments/assets/4408a85c-6b42-458b-a7b6-2153a0467150" />
 
 
 ## 🙋‍♀️ About Me
