@@ -39,15 +39,30 @@ To analyze Blinkit's sales data and uncover:
 
 ## 📁 Project Structure
 
+Dataset: https://github.com/ShalineeLikhitkar/Blinkit-Sales-Analysis-/tree/main/Blinkit%20sales%20dataset
 
 
+## 🚀 What I Learned
+
+✅ Asking the right business questions  
+✅ Building a clean and interactive dashboard layout  
+✅ Writing effective DAX logic  
+✅ Turning raw data into strategic insights  
+✅ Presenting analytical stories to support decision-making
 
 
+## Dashboard: 
+<img width="1132" height="593" alt="Screenshot 2025-08-03 112814" src="https://github.com/user-attachments/assets/00f3169e-8520-4668-b4e3-5118e5bc648a" />
 
 
+## 🙋‍♀️ About Me
+
+Hi! I'm **Shalinee Likhitkar**, a passionate Computer Science student and aspiring Data Analyst.  
+I enjoy transforming data into meaningful visuals that solve real-world problems.
+
+📫 Feel free to connect: [LinkedIn](https://www.linkedin.com/in/shalinee-likhitkar)
 
 
+## 🔖 Tags
 
-
-
-
+#PowerBIProject #DataAnalysisProject #SalesDashboard #BusinessIntelligence #DataAnalytics #DAX #PowerBI #StudentProject #ShalineeLearns #AnalyticsWithChai #BlinkitDashboard
